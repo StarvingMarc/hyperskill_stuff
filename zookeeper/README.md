@@ -1,6 +1,4 @@
-# hyperskill_stuff
-
-#### This is the end result after completing the zookeeper project from https://hyperskill.org/ for learning Python. 
+# zookeeper
 
 Run this application with `python3 zookeeper.py`
 
